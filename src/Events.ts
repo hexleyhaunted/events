@@ -1,5 +1,7 @@
 class Events {
-  static reset() {}
+  // static reset() {
+  //
+  // }
 }
 
 module.exports = Events;
